@@ -9,4 +9,4 @@ Watch tutorial on YouTube
 
 ## Local development 
 
-Please open the index.html
+Please open the index.html and view
